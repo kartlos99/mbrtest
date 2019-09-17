@@ -3,6 +3,7 @@ pirv xazi
 
 -----
 ეს იქნება მუშა (მზა) ვერსია
+for dev testing
 
 Pireveli chasworeba!!
 
